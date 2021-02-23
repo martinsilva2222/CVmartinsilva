@@ -1,5 +1,5 @@
-# McDowell CV
-McDowell CV is a LuaLaTeX class for building neat and space-efficient CVs using the design originally proposed by Gayle L. McDowell at 
+# MartinSilvaCV
+MartinSilvaCV is a LuaLaTeX class for building neat and space-efficient CVs using the design originally proposed by Gayle L. McDowell at 
 http://www.careercup.com/resume. 
 
 The class is based on `article` class. The paper format is set to U.S. letterpaper by default. A template showing an example usage of the class is included.
